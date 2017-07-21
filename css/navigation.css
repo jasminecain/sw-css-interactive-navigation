@@ -1,0 +1,22 @@
+.main-nav {
+
+}
+
+.main-nav li {
+  display: inline;
+}
+
+.main-nav li a:hover {
+  color: #4FC3F7;
+  background: #E0E0E0;
+  margin: 0 5px;
+}
+
+.main-nav li a:visited {
+  color:
+}
+
+/*
+ul {
+  list-style-type: none;
+} */
